@@ -1,11 +1,11 @@
 {
   "name": "X-NOBITA",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By ArslanMD Official",
+  "description": "A WhatsApp Bot Created By X-NOBITA Official",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name X-NOBITA",
-    "stop": "pm2 stop Your-Own-Bot",
+    "stop": "pm2 stop X-NOBITA",
     "restart": "pm2 restart X-NOBITA"
   },
   "dependencies": {
